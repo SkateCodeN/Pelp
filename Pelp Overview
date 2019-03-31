@@ -49,5 +49,7 @@
      - PhysioZoo
        > To install datasets for mammals (incl. dog, rabbit and mouse), please visit the following website:
          https://physiozoo.com/
+       > The lastest dataset can be installed from the below:
+         https://github.com/physiozoo/physiozoo/releases/tag/v1.1.3
  
   
