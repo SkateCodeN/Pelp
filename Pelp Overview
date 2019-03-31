@@ -38,5 +38,16 @@
  4. The team members behind Pelp consist of:
       Guillermo Reyes, created this repo
       Yuma Nambu
-  
+ 
+ 5. Installations of algorithms and datasets
+     We utilize open source algorithms and datasets published by the following researchers:
+     - Peter Charlton
+       > To install a toolbox of the algorithms and datasets for humans, please visit the following GitHub repo:
+         https://github.com/peterhcharlton/RRest
+       > User manual of the tool is explained in the follwoing link:
+         https://github.com/peterhcharlton/RRest/wiki
+     - PhysioZoo
+       > To install datasets for mammals (incl. dog, rabbit and mouse), please visit the following website:
+         https://physiozoo.com/
+ 
   
